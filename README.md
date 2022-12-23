@@ -39,6 +39,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section-2SnMsVL-20](https://www.frontendmentor.io/solutions/testimonials-grid-section-2SnMsVL-20)
 - Live Site Here: [https://fermop.github.io/Frontend_Mentor-10thChallenge/](https://fermop.github.io/Frontend_Mentor-10thChallenge/)
 
 ## My process
