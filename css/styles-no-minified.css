@@ -47,6 +47,10 @@ body {
   flex-direction: column;
   justify-content: center;
 }
+/* Fixing Accessibility report bug */
+h1 {
+  display: none;
+}
 /* ---------- Modifiers ---------- */
 .card--purple-bg {background-color: var(--primary-clr-Violet);}
 .card--gray-bg {background-color: var(--primary-clr-Graish-blue);}
