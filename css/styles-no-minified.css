@@ -69,6 +69,11 @@ body {
   border-radius: .5rem;
   padding: 2rem;
 }
+.container__card:nth-of-type(1) {
+  background-image: url(../assets/images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-position: top right 20%;
+}
 .card__pfp {
   width: 2rem;
   height: 2rem;
